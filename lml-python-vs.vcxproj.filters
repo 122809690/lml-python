@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cpython\t1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cpython\lml_cpython_test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="download_sample.py" />
+    <None Include="img.py" />
+    <None Include="lml-lkcz.py" />
+    <None Include="lml-pachong.py" />
+    <None Include="lml-wyyyy-download.py" />
+    <None Include="lml-wyyyy-uc!-to-mp3.py" />
+    <None Include="lml_byjc.py" />
+    <None Include="lml_dll_test.py" />
+    <None Include="lml_ewmsb.py" />
+    <None Include="lml_img_xuanzhuan.py" />
+    <None Include="lml_imread.py" />
+    <None Include="lml_JXB_test.py" />
+    <None Include="lml_mbpp.py" />
+    <None Include="lml_mbpp_zhengticeshi.py" />
+    <None Include="lml_ocr.py" />
+    <None Include="lml_orb.py" />
+    <None Include="lml_puttext.py" />
+    <None Include="lml_robotcontrol.py" />
+    <None Include="lml_server.py" />
+    <None Include="lml_SIFT.py" />
+    <None Include="lml_SURF.py" />
+    <None Include="lml_tcp_client.py" />
+    <None Include="lml_TCP_Server.py" />
+    <None Include="lml_TCP_Server_jxb.py" />
+    <None Include="lml_time.py" />
+    <None Include="lml_txmsb.py" />
+    <None Include="lml_xcjc.py" />
+    <None Include="lml_zzbds.py" />
+    <None Include="main.py" />
+    <None Include="obs-t.py" />
+    <None Include="simple_multipart_upload_sample.py" />
+    <None Include="start.py" />
+    <None Include="xml-img.py" />
+    <None Include="__init__.py" />
+    <None Include="cpython\lml_cpython_test.py" />
+    <None Include="cpython\setup.py" />
+    <None Include="data\install\jxb\auboi5sdk\robotcontrol.py" />
+    <None Include="lml-python-vs\lml_python_vs.py" />
+  </ItemGroup>
+</Project>

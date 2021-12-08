@@ -1,0 +1,8 @@
+﻿  lml_JXB_crun_exe.cpp
+  正在生成代码
+D:\WORK\lml-python\JXB\pyd\exe=c+pyd\lml_JXB_crun_exe.cpp(61): warning C4715: “JXB”: 不是所有的控件路径都返回值
+  2 of 15 functions (13.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  lml-python-vs-c++.vcxproj -> D:\WORK\lml-python\x64\Release\lml-python-vs-c++.exe
